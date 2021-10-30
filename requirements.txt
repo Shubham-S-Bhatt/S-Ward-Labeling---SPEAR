@@ -1,1 +1,1 @@
---index-url https://github.com/decile-team/spear/blob/main/docs/requirements.txt
+spear
