@@ -1,1 +1,1 @@
-decile-team/spear
+git+git://github.com/decile-team/spear/@master#spear
