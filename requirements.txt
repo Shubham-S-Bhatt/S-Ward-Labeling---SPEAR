@@ -1,1 +1,1 @@
-git+git://github.com/decile-team/spear/@master#spear
+--index-url https://github.com/decile-team/spear/blob/main/docs/requirements.txt
