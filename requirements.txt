@@ -1,1 +1,1 @@
-spear
+git clone https://github.com/decile-team/spear.git
