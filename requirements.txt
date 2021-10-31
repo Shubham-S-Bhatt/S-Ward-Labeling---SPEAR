@@ -1,4 +1,4 @@
 git clone https://github.com/decile-team/spear.git
 cd spear
 
-git+git://github.com/decile-team/spear@master#egg=spear
+-e git://github.com/decile-team/spear.git#egg=spear
