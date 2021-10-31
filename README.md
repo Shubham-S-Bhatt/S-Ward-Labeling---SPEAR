@@ -3,8 +3,7 @@ Labeling Dataset using SPEAR repository
 
 ## Installation
 
-SPEAR requires Python 3.6 or later. First install [submodlib](https://github.com/decile-team/submodlib#setup). Then to install SPEAR:
+This project requires SPEAR repository. Include it as follows:
 
 ```git clone https://github.com/decile-team/spear.git```  
-```cd spear```  
-```pip install -r requirements/requirements.txt```  
+```cd spear```    
