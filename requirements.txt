@@ -2,3 +2,4 @@ git clone https://github.com/decile-team/spear.git
 cd spear
 
 -e git://github.com/decile-team/spear.git#egg=spear
+submodlib
