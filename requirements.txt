@@ -1,1 +1,2 @@
-git+https://github.com/decile-team/spear.git@master#egg=spear
+git clone https://github.com/decile-team/spear.git
+cd spear
