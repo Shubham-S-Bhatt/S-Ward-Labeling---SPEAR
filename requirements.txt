@@ -1,4 +1,4 @@
- spear==1.0.3
+decile-spear==1.0.1
 pandas==1.3.4
 datetime==3.10.0
 openpyxl==3.0.9
